@@ -1,0 +1,40 @@
+##engr Stev's pushing to git practice
+ mkdir practice
+  207  ls
+  208  cd practice
+  209  ls
+  210  cd
+  211  ls
+  212  ls app.java
+  213  cat app.java
+  214  clear
+  215  cd p
+  216  cd practice/
+  217  ls
+  218  vi app.java2
+  219  cat app.java2
+  220  clear
+  221  ll
+  222  ls
+  223  cat app.java2
+  224  git init
+  225  git status
+  226  git add app.java2
+  227  git status
+  228  git commit -m "Engr. Stevs first commit"
+  229  git status
+  230  git branch -M main
+  231  git status
+  232  ls
+  233  git remote -v
+  234  git remote add sk https://github.com/Skwart/Kwart-BE-project.git
+  235  git remote -v
+  236  git push -u sk main
+  237  git status
+  238  git init
+  239  git status
+  240  git remote -v
+  241  git push -u sk main
+  242  history
+[ec2-user@ip-172-31-27-224 practice]$
+
