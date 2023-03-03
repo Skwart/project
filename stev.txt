@@ -37,4 +37,4 @@
   241  git push -u sk main
   242  history
 [ec2-user@ip-172-31-27-224 practice]$
-
+token: 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
